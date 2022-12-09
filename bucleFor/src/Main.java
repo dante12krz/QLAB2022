@@ -23,7 +23,7 @@ public class Main {
     }
 }
 /*
-
+//Editado por joseoh Aribel ruiz Delgado
 necesitas usar 2 bucles ...
 Ejercicios 4 minutos, 4 minutos, 10minutos
 
